@@ -1,0 +1,8 @@
+# ignore all
+day*/*
+
+# un-ignore cpps
+!day*/*.cpp
+
+# un-ignore input
+!day*/input
