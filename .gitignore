@@ -4,5 +4,5 @@ day*/*
 # un-ignore cpps
 !day*/*.cpp
 
-# un-ignore input
-!day*/input
+# un-ignore inputs
+!day*/input*
