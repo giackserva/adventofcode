@@ -10,3 +10,4 @@
 * Day 5 ([part 1](day5/5_1.cpp) - [part 2](day5/5_2.cpp))
 * Day 6 ([part 1](day6/6_1.cpp) - [part 2](day6/6_2.cpp))
 * Day 7 ([part 1](day7/7_1.cpp) - [part 2](day7/7_2.cpp))
+* Day 8 ([part 1](day8/8_1.cpp) - [part 2](day8/8_2.cpp))
