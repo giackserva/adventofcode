@@ -1,8 +1,8 @@
 # ignore all
-day*/*
+*/day*/*
 
 # un-ignore cpps
-!day*/*.cpp
+!*/day*/*.cpp
 
 # un-ignore inputs
-!day*/input*
+!*/day*/input*
