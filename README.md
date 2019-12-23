@@ -18,3 +18,4 @@
 * Day 13 ([part 1](2019/day13/13_1.cpp) - [part 2](2019/day13/13_2.cpp))
 * Day 14 missing
 * Day 15 ([part 1](2019/day15/15_1.cpp) - [part 2](2019/day15/15_2.cpp))
+* Day 16 ([part 1](2019/day16/16_1.cpp) - part 2 missing)
