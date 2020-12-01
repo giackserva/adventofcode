@@ -1,8 +1,16 @@
+# 2019
+
 # ignore all
-*/day*/*
+2019/day*/*
 
 # un-ignore cpps
-!*/day*/*.cpp
+!2019/day*/*.cpp
 
 # un-ignore inputs
-!*/day*/input*
+!2019/day*/input*
+
+# 2020
+
+# ignore build artifacts
+2020/day*/bin
+2020/day*/obj
