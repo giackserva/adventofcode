@@ -9,7 +9,7 @@ namespace AdventOfCode
         public void Run()
         {
             var set = new HashSet<int>();
-            foreach(var line in File.ReadLines("input"))
+            foreach(var line in File.ReadLines("../../../input"))
             {
                 var num = Int32.Parse(line);
                 if(set.Contains(2020 - num)) {

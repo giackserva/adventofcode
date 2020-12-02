@@ -10,7 +10,7 @@ namespace AdventOfCode
         public void Run()
         {
             var set = new HashSet<int>();
-            foreach(var line in File.ReadLines("input")) {
+            foreach(var line in File.ReadLines("../../../input")) {
                 set.Add(Int32.Parse(line));
             }
             foreach(var f in set) {

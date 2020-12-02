@@ -14,3 +14,8 @@
 # ignore build artifacts
 2020/day*/bin
 2020/day*/obj
+
+# visual studio configs
+2020/day*/.vs
+2020/day*/*.user
+2020/.vs
