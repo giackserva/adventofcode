@@ -11,8 +11,8 @@ namespace AdventOfCode
         {
             var input = File.ReadLines("../../../input").ToList();
 
-            var oxygen = Filter(new List<string>(input), true);
-            var co2 = Filter(new List<string>(input), false);
+            var oxygen = Filter(input, true);
+            var co2 = Filter(input, false);
 
             Console.WriteLine(Convert.ToInt32(oxygen, 2) * Convert.ToInt32(co2, 2));
         }
