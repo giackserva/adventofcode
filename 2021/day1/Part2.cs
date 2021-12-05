@@ -10,7 +10,7 @@ namespace AdventOfCode
         public void Run()
         {
             var nums = new List<int>();
-            foreach(var line in File.ReadLines("input")) {
+            foreach(var line in File.ReadLines("../../../input")) {
                 nums.Add(Int32.Parse(line));
             }
             int previous = int.MaxValue;

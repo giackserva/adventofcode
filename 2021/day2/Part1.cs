@@ -10,7 +10,7 @@ namespace AdventOfCode
         {
             int depth = 0;
             int position = 0;
-            foreach(var line in File.ReadLines("input"))
+            foreach(var line in File.ReadLines("../../../input"))
             {
                 var command = line.Split(' ');
                 var value = Int32.Parse(command[1]);
