@@ -12,10 +12,10 @@
 # 2020
 
 # ignore build artifacts
-2020/day*/bin
-2020/day*/obj
+*/*/bin
+*/*/obj
 
 # visual studio configs
-2020/day*/.vs
-2020/day*/*.user
-2020/.vs
+*/*/.vs
+*/*/*.user
+*/.vs
